@@ -1,0 +1,7 @@
+.DS_Store
+node_modules
+dist
+src/assets/common2.0
+coverageReport
+.idea
+.vim
